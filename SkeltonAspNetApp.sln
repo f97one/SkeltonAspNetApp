@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkeltonAspNetApp", "SkeltonAspNetApp\SkeltonAspNetApp.csproj", "{E1012FE2-B0AC-4FB9-8961-F28ED438E097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkeltonAspNetApp.Tests", "SkeltonAspNetApp.Tests\SkeltonAspNetApp.Tests.csproj", "{AFB804D7-FC71-4ACE-8B07-C036412ED786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1012FE2-B0AC-4FB9-8961-F28ED438E097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1012FE2-B0AC-4FB9-8961-F28ED438E097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1012FE2-B0AC-4FB9-8961-F28ED438E097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1012FE2-B0AC-4FB9-8961-F28ED438E097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB804D7-FC71-4ACE-8B07-C036412ED786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB804D7-FC71-4ACE-8B07-C036412ED786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB804D7-FC71-4ACE-8B07-C036412ED786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB804D7-FC71-4ACE-8B07-C036412ED786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC976D2-4DFA-421D-8A33-601DB56D0DF9}
+	EndGlobalSection
+EndGlobal
